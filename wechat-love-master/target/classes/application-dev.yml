@@ -1,0 +1,15 @@
+wechat:
+  # 微信公众号AK/SK https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+  appId: wx3c5c0247dd1fccf0
+  secret: 22eb3bc9d839e17cdfc7fe0d7d9efe90
+  # 微信内容模板ID
+  templateId: Eqx5cmT3BuLG56tz2yDRmN9Mkizh-Hp4Sb3XyvVFqzM
+# 百度天气 https://lbsyun.baidu.com/apiconsole/center#/home
+weather:
+  ak: YBmBSoqoZ4s62pCW0FBagWMFfwUdXfCx
+  # 地区编码 https://www.mca.gov.cn/article/sj/xzqh/1980/201803/201803131454.html
+  areaCode: 231004
+# 天行彩虹屁 https://www.tianapi.com/apiview/181
+tian:
+  caihongpi:
+    key: 16f063598e3f65a7b7db8647571f7763

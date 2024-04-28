@@ -1,0 +1,16 @@
+💓可爱的：{{name.DATA}}
+📅今天是：{{date.DATA}}
+🌍地区:{{city.DATA}}
+☁️今日天气：{{weather.DATA}}
+🌡️当前温度：{{now_temperature.DATA}}
+🌕今日最低温度：{{min_temperature.DATA}}
+🌞今日最高温度：{{max_temperature.DATA}}
+❤️我们已经认识：{{know.DATA}}
+🎂距离你这个小笨蛋的生日还有：{{birthday.DATA}}
+🌛夜间天气：{{textNight.DATA}}
+☁️白天风向：{{windDirDay.DATA}}
+☁️夜间风向：{{windDirNight.DATA}}
+💬{{loveWords.DATA}}
+ʢ>🐽<ʡʢ>🐽<ʡʢ>🐽<ʡʢ>🐽<ʡʢ>🐽<ʡʢ>🐽<ʡ
+🌄日出时间：{{sunrise.DATA}}
+🌄日落时间：{{sunset.DATA}}

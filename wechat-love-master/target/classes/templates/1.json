@@ -1,0 +1,84 @@
+{
+    "status": 0,
+    "result": {
+    "location": {
+    "country": "中国",
+    "province": "黑龙江省",
+    "city": "牡丹江市",
+    "name": "爱民",
+    "id": "231004"
+},
+    "now": {
+    "text": "晴",
+    "temp": 12,
+    "feels_like": 10,
+    "rh": 29,
+    "wind_class": "4级",
+    "wind_dir": "西风",
+    "uptime": "20240428171500"
+},
+    "forecasts": [
+    {
+        "text_day": "多云",
+        "text_night": "多云",
+        "high": 15,
+        "low": 0,
+        "wc_day": "3~4级",
+        "wd_day": "西南风",
+        "wc_night": "<3级",
+        "wd_night": "西南风",
+        "date": "2024-04-28",
+        "week": "星期日"
+    },
+    {
+        "text_day": "小雨",
+        "text_night": "小雨",
+        "high": 16,
+        "low": 3,
+        "wc_day": "4~5级",
+        "wd_day": "西风",
+        "wc_night": "<3级",
+        "wd_night": "东北风",
+        "date": "2024-04-29",
+        "week": "星期一"
+    },
+    {
+        "text_day": "小雨",
+        "text_night": "晴",
+        "high": 13,
+        "low": 0,
+        "wc_day": "4~5级",
+        "wd_day": "西风",
+        "wc_night": "<3级",
+        "wd_night": "西风",
+        "date": "2024-04-30",
+        "week": "星期二"
+    },
+    {
+        "text_day": "晴",
+        "text_night": "多云",
+        "high": 20,
+        "low": 7,
+        "wc_day": "3~4级",
+        "wd_day": "西南风",
+        "wc_night": "<3级",
+        "wd_night": "南风",
+        "date": "2024-05-01",
+        "week": "星期三"
+    },
+    {
+        "text_day": "晴",
+        "text_night": "晴",
+        "high": 26,
+        "low": 7,
+        "wc_day": "5~6级",
+        "wd_day": "西风",
+        "wc_night": "<3级",
+        "wd_night": "西北风",
+        "date": "2024-05-02",
+        "week": "星期四"
+    }
+    ]
+},
+    "message": "success"
+}

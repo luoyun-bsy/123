@@ -1,0 +1,17 @@
+server:
+  port: 8083
+logging:
+  level:
+    root: info
+spring:
+  application:
+    name: WeChatLove
+  profiles:
+    active: dev
+target:
+  # 推送目标微信开放ID,需要填写你对象扫码后你在后台看到的微信号
+  targetOpenId: ov8re6c10PmvtUvzLQo_AjAnEVXE
+  #认识的日期
+  know: 2024-03-10
+  #小池的生日
+  birthday: 2005-09-11
